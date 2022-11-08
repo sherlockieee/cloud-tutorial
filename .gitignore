@@ -36,3 +36,5 @@ terraform.rc
 
 .vscode/
 */terraform/
+venv/
+__MACOSX/
